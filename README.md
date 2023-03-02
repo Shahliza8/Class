@@ -1,3 +1,2 @@
 # Class
-This is first repository
-l=gfhgjhgnhfgb
+This is first repository.
