@@ -1,2 +1,1 @@
-# Class
-This is the default repository.
+This is the first repository for merging.
